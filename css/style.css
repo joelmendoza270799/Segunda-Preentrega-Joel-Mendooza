@@ -57,7 +57,7 @@ nav a:hover{
 .main {
   grid-area: main;
   background-color: #f5f5f5;
-  background-image: url(/img/monument-3388941_1280.jpg);
+  background-image: url(../img/monument-3388941_1280.jpg);
   background-size: cover;
   background-position: center;
   display: grid;
